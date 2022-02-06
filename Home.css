@@ -979,20 +979,32 @@
   }
 
   .u-section-3 .u-container-layout-1 {
-    padding-top: 0;
-    padding-bottom: 0;
+    padding: 0 34px;
   }
 
   .u-section-3 .u-group-1 {
-    margin-top: 150px;
-    margin-right: 107px;
-    margin-left: auto;
+    margin-top: 165px;
+    margin-left: 0;
   }
 
   .u-section-3 .u-image-1 {
     height: 628px;
-    margin-top: 75px;
-    margin-right: 75px;
+    margin-top: -507px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 37px;
+    padding-right: 37px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-right: 17px;
+  }
+
+  .u-section-3 .u-group-3 {
+    margin-top: -546px;
+    margin-left: 0;
   }
 }
 
@@ -1071,6 +1083,7 @@
   }
 
   .u-section-3 .u-group-3 {
+    margin-top: -521px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
